@@ -1,0 +1,33 @@
+# Dataset original
+data/*
+!data/.gitkeep
+
+# Base de datos generada por el ETL
+database/*
+!database/.gitkeep
+
+# Variables de entorno
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Editores
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log\n
