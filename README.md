@@ -1,6 +1,3 @@
-README_PATH = BASE_DIR / "README.md"
-
-readme = """
 # Pre-Entrega 8 - Persistencia e integración de scripts ETL
 
 ## Descripción
